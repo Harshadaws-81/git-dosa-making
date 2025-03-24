@@ -1,4 +1,3 @@
 # Dosa
 
-* Dosa-batter
-* Adding refined oil
+* Dosa-flour(batter)
