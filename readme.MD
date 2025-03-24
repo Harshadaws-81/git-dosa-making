@@ -1,4 +1,5 @@
 # Dosa
 
 * Dosa-flour(batter)
-* Adding refiend oil
+* Added Karam
+* Adding oil to Dosa
